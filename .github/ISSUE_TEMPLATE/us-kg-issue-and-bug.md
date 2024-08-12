@@ -1,7 +1,7 @@
 ---
 name: US.KG Issue and Bug
 about: US.KG Issue report
-title: "[Issue & Bugs]"
+title: "US.KG Panel Issue"
 labels: ''
 assignees: ''
 
